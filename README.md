@@ -1,6 +1,6 @@
 #How To Run Project
 
-Open a new terminal and go to project file
+###Open a new terminal and go to project file
 
 ## Run API
 
@@ -8,4 +8,4 @@ Open a new terminal and go to project file
 
 ## Run Project
 
-## 'npm start'
+### 'npm start'
